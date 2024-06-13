@@ -1,4 +1,4 @@
 # MernStack
 
 
-Computer(wwww.google.come----> Internet Service provided----->DSN BOOk----->>IP Address
+Computer(wwww.google.come----> Internet Service provided----->DSN (Domain service name)BOOk----->>IP Address
